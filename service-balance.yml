@@ -19,7 +19,7 @@ parameters:
 - name: GIT_REPO
   displayName: Git Repository URL
   required: true
-  value: http://AYounis24:VodaPass23@10.230.86.158/AYounis24/RedHatServiceBalance.git
+  value: https://1984shekhar:tharra1991@github.com/1984shekhar/testing.git
   description: The URL of the repository with your application source code.
 - name: MAVEN_MIRROR_URL
   displayName: Maven Mirror
